@@ -8,8 +8,6 @@ A modern, AI-powered anime recommendation system that helps users discover their
 - **Modern UI**: Clean, responsive design with dark/light mode support
 - **Rich Anime Database**: Access to thousands of anime titles with detailed information
 - **Advanced Search**: Find anime by title, genre, or other criteria
-- **User Profiles**: Save your favorite anime and track your watch history
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
 
 ## 🚀 Tech Stack
 
@@ -25,7 +23,6 @@ A modern, AI-powered anime recommendation system that helps users discover their
 - **Python** - Programming language
 - **Jikan API** - Unofficial MyAnimeList API
 - **Scikit-learn** - Machine learning library for recommendations
-- **SQLAlchemy** - SQL toolkit and ORM
 
 ## 🛠️ Installation
 
@@ -139,8 +136,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MyAnimeList](https://myanimelist.net/) for the comprehensive anime database
 - [Ant Design](https://ant.design/) for the UI components
 
-## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/anime-rec-sys](https://github.com/yourusername/anime-rec-sys)
